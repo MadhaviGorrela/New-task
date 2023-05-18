@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Kalam', cursive;
+    background-color: burlywood;
+     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaqSQCLXSXjIp9LafABXTHK49N_parRB-UTwiWWdYrWBvpEmdyDfwq5_DmpyIXuEAWOGg&usqp=CAU);
+     background-repeat: no-repeat;
+     background-size: cover;
+}   
+h1,h2,h3,h4,h5,h6{
+    color: aqua;
+}   
+p{
+    color: chartreuse;
+} 
+.para{
+    color: blue;
+} 
+       
